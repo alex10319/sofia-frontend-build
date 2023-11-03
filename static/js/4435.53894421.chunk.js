@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[4435],{4435:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var t=r(80184),u=function(){return(0,t.jsx)("div",{id:"ErrorPage"})},f=function(){return(0,t.jsx)(u,{delegations:{}})}}}]);
+//# sourceMappingURL=4435.53894421.chunk.js.map

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[55696],{55696:function(e){e.exports=JSON.parse('[{"value":"0001","label":"San Bartolom\xe9 Zoogocho","index":0}]')}}]);

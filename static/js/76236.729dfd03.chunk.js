@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[76236],{76236:function(n,r,e){e.r(r),e.d(r,{default:function(){return f}});var t=e(80184),u=function(){return(0,t.jsx)("div",{children:"DashBoard"})},f=function(){return(0,t.jsx)(u,{})}}}]);
+//# sourceMappingURL=76236.729dfd03.chunk.js.map
