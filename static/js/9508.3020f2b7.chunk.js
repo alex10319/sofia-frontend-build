@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[9508],{9508:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Mart\xedn de los Cansecos","index":0},{"value":"0003","label":"Colonia Benito Ju\xe1rez","index":1},{"value":"0004","label":"Barrio Emiliano Zapata","index":2}]')}}]);

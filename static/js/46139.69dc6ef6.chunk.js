@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[46139],{46139:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Bartolo Yautepec","index":0},{"value":"0002","label":"Puerto San Bartolo","index":1},{"value":"0004","label":"Colonia Extranjera","index":2},{"value":"0005","label":"Joaqu\xedn L\xf3pez Mariano [Rancho]","index":3}]')}}]);

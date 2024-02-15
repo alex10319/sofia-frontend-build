@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[76792],{76792:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Juan Atzompa","index":0},{"value":"0003","label":"San Antonio (El Encanto)","index":1},{"value":"0010","label":"Tepanacitla","index":2},{"value":"0011","label":"Boca del Monte","index":3}]')}}]);

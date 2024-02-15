@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[72359],{72359:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Juan Mixtepec Distrito 26","index":0}]')}}]);

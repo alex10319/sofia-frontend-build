@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[95608],{95608:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Miguel Tilqui\xe1pam","index":0},{"value":"0002","label":"Rancho Maya","index":1},{"value":"0003","label":"Roguero","index":2},{"value":"0004","label":"Pie del Cubilete","index":3}]')}}]);

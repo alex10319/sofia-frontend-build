@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[33765],{33765:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Benito Ju\xe1rez","index":0}]')}}]);

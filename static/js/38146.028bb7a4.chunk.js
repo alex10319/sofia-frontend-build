@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[38146],{38146:a=>{a.exports=JSON.parse('[{"value":"0001","label":"Almoloya del R\xedo","index":0},{"value":"0002","label":"Colonia Loma Linda","index":1},{"value":"0004","label":"Colonia la Puerta","index":2},{"value":"0005","label":"Colonia la Florida (El Jag\xfcey)","index":3}]')}}]);

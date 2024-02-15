@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[53276],{53276:e=>{e.exports=JSON.parse('[{"value":"0004","label":"Santa Catalina Mixtepec","index":0},{"value":"0001","label":"Magdalena Mixtepec","index":1},{"value":"0007","label":"Nabor Antonio","index":2},{"value":"0008","label":"Junta de los Rios","index":3}]')}}]);

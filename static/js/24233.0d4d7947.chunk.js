@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[24233],{24233:a=>{a.exports=JSON.parse('[{"value":"0001","label":"Santa Catarina Ayometla","index":0}]')}}]);

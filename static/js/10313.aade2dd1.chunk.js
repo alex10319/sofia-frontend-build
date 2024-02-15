@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[10313],{10313:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Santa Magdalena Jicotl\xe1n","index":0},{"value":"0002","label":"Barrio San Miguel","index":1}]')}}]);

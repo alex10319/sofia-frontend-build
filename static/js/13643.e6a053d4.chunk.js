@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[13643],{13643:a=>{a.exports=JSON.parse('[{"value":"0001","label":"Santa Mar\xeda Yalina","index":0}]')}}]);

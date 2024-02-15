@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[80067],{80067:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Chigmecatitl\xe1n","index":0},{"value":"0002","label":"Gigante de San Luis de la Paz","index":1}]')}}]);

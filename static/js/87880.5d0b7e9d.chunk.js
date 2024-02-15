@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[87880],{87880:a=>{a.exports=JSON.parse('[{"value":"0001","label":"Santa Catarina Tlaltempan","index":0}]')}}]);

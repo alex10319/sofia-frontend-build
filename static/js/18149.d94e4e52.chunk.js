@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[18149],{18149:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Santo Tom\xe1s Mazaltepec","index":0}]')}}]);

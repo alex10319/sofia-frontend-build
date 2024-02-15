@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[77123],{77123:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Pedro Ocopetatillo","index":0}]')}}]);

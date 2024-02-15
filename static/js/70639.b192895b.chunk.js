@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[70639],{70639:e=>{e.exports=JSON.parse('[{"value":"0002","label":"Lomas de Nazareno","index":0},{"value":"0001","label":"Nazareno Etla","index":1}]')}}]);

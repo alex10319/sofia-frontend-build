@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[80483],{80483:e=>{e.exports=JSON.parse('[{"value":"0005","label":"Patiy","index":0},{"value":"0001","label":"Atlequizayan","index":1},{"value":"0003","label":"Ignacio Allende (Concepci\xf3n)","index":2},{"value":"0004","label":"Atlequizayan","index":3}]')}}]);

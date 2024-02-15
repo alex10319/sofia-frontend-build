@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[60614],{60614:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Nicol\xe1s de los Garza","index":0}]')}}]);

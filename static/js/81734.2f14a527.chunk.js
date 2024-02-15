@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[81734],{81734:e=>{e.exports=JSON.parse('[{"value":"0003","label":"Piedra Tendida","index":0},{"value":"0004","label":"El Porvenir","index":1},{"value":"0005","label":"Agua Pe\xf1afiel","index":2},{"value":"0001","label":"Santa Cruz Acatepec","index":3}]')}}]);

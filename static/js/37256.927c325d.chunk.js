@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[37256],{37256:a=>{a.exports=JSON.parse('[{"value":"0001","label":"San Crist\xf3bal Lachirioag","index":0},{"value":"0002","label":"Violaach","index":1},{"value":"0003","label":"Analco (Barrio de Villa Alta)","index":2},{"value":"0004","label":"R\xedo Tabinela","index":3}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[3685],{3685:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Asunci\xf3n Tlacolulita","index":0},{"value":"0002","label":"San Juan Alotepec","index":1},{"value":"0008","label":"Primera Secci\xf3n Norte","index":2}]')}}]);

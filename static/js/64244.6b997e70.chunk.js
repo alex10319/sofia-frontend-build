@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[64244],{64244:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Pedro Cajonos","index":0},{"value":"0002","label":"Segunda Secci\xf3n (San Pedro)","index":1},{"value":"0003","label":"Barrio Bajo","index":2}]')}}]);

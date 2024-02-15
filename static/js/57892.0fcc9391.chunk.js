@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[57892],{57892:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Santa Catalina Quier\xed","index":0}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[5601],{5601:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Santa Cruz Amilpas","index":0},{"value":"0002","label":"Llano Verde (Colonia Llano Verde)","index":1}]')}}]);

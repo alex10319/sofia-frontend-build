@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[24411],{24411:a=>{a.exports=JSON.parse('[{"value":"0001","label":"San Baltazar Chichic\xe1pam","index":0},{"value":"0002","label":"Dichigadama (Paraje la Playa y el Bordo)","index":1},{"value":"0003","label":"El Para\xedso [Rancho]","index":2}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[34773],{34773:a=>{a.exports=JSON.parse('[{"value":"0001","label":"San Mateo Cajonos","index":0},{"value":"0002","label":"Ampliaci\xf3n de San Mateo Cajonos","index":1},{"value":"0003","label":"Santiago Felipe Baltazar","index":2}]')}}]);

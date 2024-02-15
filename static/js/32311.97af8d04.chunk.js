@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[32311],{32311:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Lorenzo Cuaunecuiltitla","index":0},{"value":"0002","label":"Escuela Telesecundaria","index":1}]')}}]);

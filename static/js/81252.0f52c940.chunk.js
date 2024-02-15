@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[81252],{81252:a=>{a.exports=JSON.parse('[{"value":"0001","label":"San Antonio Nanahuat\xedpam","index":0},{"value":"0002","label":"San Gabriel Casa Blanca","index":1},{"value":"0003","label":"Colonia Ejidal Teodoro Flores","index":2}]')}}]);

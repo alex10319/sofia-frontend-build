@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[39054],{39054:a=>{a.exports=JSON.parse('[{"value":"0001","label":"La Magdalena Tlatlauquitepec","index":0},{"value":"0002","label":"La Magdalena Tlatlauquitepec","index":1}]')}}]);

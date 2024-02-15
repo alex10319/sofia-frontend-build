@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[27797],{27797:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Santo Domingo Yodohino","index":0},{"value":"0002","label":"El Cerrito","index":1}]')}}]);

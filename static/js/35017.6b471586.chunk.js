@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[35017],{35017:a=>{a.exports=JSON.parse('[{"value":"0001","label":"San Juan Taba\xe1","index":0},{"value":"0002","label":"El Calvario (Barrio de San Juan Tabaa)","index":1}]')}}]);

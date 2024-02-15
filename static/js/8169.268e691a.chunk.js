@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[8169],{8169:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Ciudad Madero","index":0}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[53815],{53815:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Santa Luc\xeda Ocotl\xe1n","index":0},{"value":"0002","label":"Los Sarmiento","index":1},{"value":"0004","label":"Rompe Capa","index":2},{"value":"0003","label":"Tierra Negra (Pozo Tierra Negra)","index":3}]')}}]);

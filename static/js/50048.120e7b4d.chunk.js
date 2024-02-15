@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[50048],{50048:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Amaxac de Guerrero","index":0},{"value":"0002","label":"San Dami\xe1n Tlacocalpan","index":1},{"value":"0011","label":"Rub\xe9n L\xf3pez","index":2},{"value":"0012","label":"La Preciosa [Rancho]","index":3}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[38822],{38822:e=>{e.exports=JSON.parse('[{"value":"0004","label":"Rancho Buenavista","index":0},{"value":"0001","label":"San Pedro Jocotipac","index":1},{"value":"0002","label":"Cerro de la Cruz","index":2},{"value":"0003","label":"Loma del Calvario","index":3}]')}}]);

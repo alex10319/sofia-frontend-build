@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[19942],{19942:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Santa Mar\xeda Tataltepec","index":0},{"value":"0002","label":"Cerro San Marcos","index":1}]')}}]);

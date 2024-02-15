@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[17290],{17290:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Santiago Cacaloxtepec","index":0},{"value":"0002","label":"Corral de Piedra","index":1},{"value":"0003","label":"El Puente","index":2}]')}}]);

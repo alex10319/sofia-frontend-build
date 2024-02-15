@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[41177],{41177:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Chiconcuac de Ju\xe1rez","index":0},{"value":"0008","label":"Ejido Chiconcuac (Las Joyas)","index":1},{"value":"0009","label":"Ejido San Crist\xf3bal","index":2}]')}}]);

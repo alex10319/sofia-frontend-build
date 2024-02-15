@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[77661],{77661:e=>{e.exports=JSON.parse('[{"value":"0001","label":"Abejones","index":0},{"value":"0002","label":"Colonia Linda Vista (Tierra Blanca)","index":1}]')}}]);

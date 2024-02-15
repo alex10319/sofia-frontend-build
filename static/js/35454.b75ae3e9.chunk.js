@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[35454],{35454:a=>{a.exports=JSON.parse('[{"value":"0001","label":"Papalotla","index":0},{"value":"0006","label":"Mazatla (Barrio de Mazatla)","index":1},{"value":"0007","label":"Rancho San Rafael","index":2}]')}}]);

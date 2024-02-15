@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[21419],{21419:a=>{a.exports=JSON.parse('[{"value":"0001","label":"Santa Mar\xeda Temaxcalapa","index":0},{"value":"0002","label":"Barrio Dos (Entrada Principal)","index":1}]')}}]);

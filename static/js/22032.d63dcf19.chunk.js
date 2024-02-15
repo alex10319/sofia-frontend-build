@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[22032],{22032:e=>{e.exports=JSON.parse('[{"value":"0004","label":"Alrededores de Amatengo","index":0},{"value":"0001","label":"San Agust\xedn Amatengo","index":1},{"value":"0002","label":"Yuguluxi","index":2}]')}}]);

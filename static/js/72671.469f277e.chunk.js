@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[72671],{72671:a=>{a.exports=JSON.parse('[{"value":"0001","label":"San Juan Chilateca","index":0},{"value":"0002","label":"Camino a Tlacolula","index":1},{"value":"0003","label":"El Yahuin","index":2},{"value":"0004","label":"Rancho del Progreso (Las Cabrillas)","index":3}]')}}]);

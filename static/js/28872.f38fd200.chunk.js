@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[28872],{28872:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Pablo Yaganiza","index":0},{"value":"0002","label":"Barrio Xhan Yesh (Abajo del Pueblo)","index":1}]')}}]);

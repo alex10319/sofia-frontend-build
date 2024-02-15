@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[32789],{32789:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Mart\xedn Totoltepec","index":0},{"value":"0003","label":"Las Cruces","index":1},{"value":"0004","label":"Tihuixtle (Rancho de Antorcha)","index":2}]')}}]);

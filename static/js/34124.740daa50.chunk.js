@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[34124],{34124:e=>{e.exports=JSON.parse('[{"value":"0001","label":"La Pe","index":0},{"value":"0002","label":"Guadalupe","index":1}]')}}]);

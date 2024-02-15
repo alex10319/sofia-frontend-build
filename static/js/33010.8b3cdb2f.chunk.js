@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[33010],{33010:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Pedro M\xe1rtir","index":0},{"value":"0002","label":"El Mogote Chico","index":1},{"value":"0003","label":"Mojonera","index":2},{"value":"0004","label":"Paraje Camino a San Pedro Ap\xf3stol","index":3}]')}}]);

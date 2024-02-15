@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksofia_frontend=self.webpackChunksofia_frontend||[]).push([[41912],{41912:e=>{e.exports=JSON.parse('[{"value":"0001","label":"San Melchor Betaza","index":0},{"value":"0002","label":"Santo Tom\xe1s Lachit\xe1","index":1},{"value":"0003","label":"Loma de Conejo (Arriba del Tanque)","index":2}]')}}]);
